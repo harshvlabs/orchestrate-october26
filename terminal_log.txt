@@ -1,0 +1,575 @@
+al_20260203.log | upload_key=evidence__logs__operations_stream_me_central_20260203.log.txt | allowed=YES
+  - file_id=evidence_49 | captured_at=2026-01-31T15:00:00Z | file_name=customer_data_snapshot_bundle_20260131.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260131.json | allowed=YES
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Processed case_509: INCOMPLETE
+Intent profile case_512: authorized=0.98, delete=0.99, verify=0.92, redact=0.02, label=delete_account
+========== DEBUG case_512 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 4
+Selected evidence count: 4
+Allowed evidence IDs count: 5
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_47 | captured_at=2026-02-08T07:00:00Z | file_name=customer_data_reporting_replica_20260208.sql | upload_key=evidence__databases__customer_data_reporting_replica_20260208.sql.txt | allowed=YES
+  - file_id=evidence_48 | captured_at=2026-02-03T05:59:42Z | file_name=operations_stream_me_central_20260203.log | upload_key=evidence__logs__operations_stream_me_central_20260203.log.txt | allowed=YES
+  - file_id=evidence_49 | captured_at=2026-01-31T15:00:00Z | file_name=customer_data_snapshot_bundle_20260131.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260131.json | allowed=YES
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Processed case_505: INCOMPLETE
+case_502: applied verification-bias repair pass
+Processed case_502: COMPLETE
+Intent profile case_513: authorized=0.99, delete=0.99, verify=0.90, redact=0.05, label=delete_account
+========== DEBUG case_513 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 3
+Selected evidence count: 3
+Allowed evidence IDs count: 3
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_48 | captured_at=2026-02-03T05:59:42Z | file_name=operations_stream_me_central_20260203.log | upload_key=evidence__logs__operations_stream_me_central_20260203.log.txt | allowed=YES
+  - file_id=evidence_49 | captured_at=2026-01-31T15:00:00Z | file_name=customer_data_snapshot_bundle_20260131.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260131.json | allowed=YES
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Intent profile case_514: authorized=0.98, delete=0.99, verify=0.45, redact=0.02, label=delete_account
+========== DEBUG case_514 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 3
+Selected evidence count: 3
+Allowed evidence IDs count: 3
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_48 | captured_at=2026-02-03T05:59:42Z | file_name=operations_stream_me_central_20260203.log | upload_key=evidence__logs__operations_stream_me_central_20260203.log.txt | allowed=YES
+  - file_id=evidence_49 | captured_at=2026-01-31T15:00:00Z | file_name=customer_data_snapshot_bundle_20260131.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260131.json | allowed=YES
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Processed case_510: INCOMPLETE
+case_508: applied verification-bias repair pass
+Processed case_508: INCOMPLETE
+Intent profile case_515: authorized=0.99, delete=0.99, verify=0.90, redact=0.01, label=delete_account
+========== DEBUG case_515 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 3
+Selected evidence count: 3
+Allowed evidence IDs count: 3
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_48 | captured_at=2026-02-03T05:59:42Z | file_name=operations_stream_me_central_20260203.log | upload_key=evidence__logs__operations_stream_me_central_20260203.log.txt | allowed=YES
+  - file_id=evidence_49 | captured_at=2026-01-31T15:00:00Z | file_name=customer_data_snapshot_bundle_20260131.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260131.json | allowed=YES
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Intent profile case_516: authorized=0.98, delete=0.99, verify=0.02, redact=0.01, label=delete_account
+========== DEBUG case_516 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 3
+Selected evidence count: 3
+Allowed evidence IDs count: 3
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_48 | captured_at=2026-02-03T05:59:42Z | file_name=operations_stream_me_central_20260203.log | upload_key=evidence__logs__operations_stream_me_central_20260203.log.txt | allowed=YES
+  - file_id=evidence_49 | captured_at=2026-01-31T15:00:00Z | file_name=customer_data_snapshot_bundle_20260131.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260131.json | allowed=YES
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Intent profile case_517: authorized=0.95, delete=0.98, verify=0.85, redact=0.01, label=delete_account
+========== DEBUG case_517 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 3
+Selected evidence count: 3
+Allowed evidence IDs count: 4
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_48 | captured_at=2026-02-03T05:59:42Z | file_name=operations_stream_me_central_20260203.log | upload_key=evidence__logs__operations_stream_me_central_20260203.log.txt | allowed=YES
+  - file_id=evidence_49 | captured_at=2026-01-31T15:00:00Z | file_name=customer_data_snapshot_bundle_20260131.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260131.json | allowed=YES
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Processed case_511: COMPLETE
+Processed case_513: COMPLETE
+Intent profile case_518: authorized=0.95, delete=0.98, verify=0.15, redact=0.01, label=delete_account
+========== DEBUG case_518 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 3
+Selected evidence count: 3
+Allowed evidence IDs count: 3
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_48 | captured_at=2026-02-03T05:59:42Z | file_name=operations_stream_me_central_20260203.log | upload_key=evidence__logs__operations_stream_me_central_20260203.log.txt | allowed=YES
+  - file_id=evidence_49 | captured_at=2026-01-31T15:00:00Z | file_name=customer_data_snapshot_bundle_20260131.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260131.json | allowed=YES
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Intent profile case_519: authorized=0.98, delete=0.99, verify=0.90, redact=0.01, label=delete_account
+========== DEBUG case_519 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 3
+Selected evidence count: 3
+Allowed evidence IDs count: 3
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_48 | captured_at=2026-02-03T05:59:42Z | file_name=operations_stream_me_central_20260203.log | upload_key=evidence__logs__operations_stream_me_central_20260203.log.txt | allowed=YES
+  - file_id=evidence_49 | captured_at=2026-01-31T15:00:00Z | file_name=customer_data_snapshot_bundle_20260131.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260131.json | allowed=YES
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Processed case_516: COMPLETE
+case_507: applied verification-bias repair pass
+Processed case_507: INCOMPLETE
+Processed case_517: COMPLETE
+Intent profile case_521: authorized=0.98, delete=0.99, verify=0.02, redact=0.01, label=delete_account
+========== DEBUG case_521 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 3
+Selected evidence count: 3
+Allowed evidence IDs count: 3
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_48 | captured_at=2026-02-03T05:59:42Z | file_name=operations_stream_me_central_20260203.log | upload_key=evidence__logs__operations_stream_me_central_20260203.log.txt | allowed=YES
+  - file_id=evidence_49 | captured_at=2026-01-31T15:00:00Z | file_name=customer_data_snapshot_bundle_20260131.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260131.json | allowed=YES
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Intent profile case_520: authorized=0.99, delete=0.98, verify=0.25, redact=0.01, label=delete_account
+========== DEBUG case_520 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 3
+Selected evidence count: 3
+Allowed evidence IDs count: 5
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_48 | captured_at=2026-02-03T05:59:42Z | file_name=operations_stream_me_central_20260203.log | upload_key=evidence__logs__operations_stream_me_central_20260203.log.txt | allowed=YES
+  - file_id=evidence_49 | captured_at=2026-01-31T15:00:00Z | file_name=customer_data_snapshot_bundle_20260131.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260131.json | allowed=YES
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Processed case_518: COMPLETE
+Intent profile case_522: authorized=0.95, delete=0.98, verify=0.85, redact=0.05, label=delete_account
+========== DEBUG case_522 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 3
+Selected evidence count: 3
+Allowed evidence IDs count: 4
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_48 | captured_at=2026-02-03T05:59:42Z | file_name=operations_stream_me_central_20260203.log | upload_key=evidence__logs__operations_stream_me_central_20260203.log.txt | allowed=YES
+  - file_id=evidence_49 | captured_at=2026-01-31T15:00:00Z | file_name=customer_data_snapshot_bundle_20260131.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260131.json | allowed=YES
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Intent profile case_523: authorized=0.98, delete=0.99, verify=0.90, redact=0.01, label=delete_account
+========== DEBUG case_523 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 1
+Selected evidence count: 1
+Allowed evidence IDs count: 1
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+case_514: applied verification-bias repair pass
+Processed case_514: INCOMPLETE
+Intent profile case_524: authorized=0.98, delete=0.99, verify=0.92, redact=0.02, label=delete_account
+========== DEBUG case_524 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 1
+Selected evidence count: 1
+Allowed evidence IDs count: 1
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+case_515: applied verification-bias repair pass
+Processed case_515: INCOMPLETE
+Processed case_520: INCOMPLETE
+Intent profile case_525: authorized=0.99, delete=0.99, verify=0.90, redact=0.01, label=delete_account
+========== DEBUG case_525 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 1
+Selected evidence count: 1
+Allowed evidence IDs count: 3
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Processed case_521: COMPLETE
+Intent profile case_526: authorized=0.98, delete=0.99, verify=0.60, redact=0.75, label=delete_account
+========== DEBUG case_526 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 1
+Selected evidence count: 1
+Allowed evidence IDs count: 1
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+case_512: applied verification-bias repair pass
+Processed case_512: COMPLETE
+Intent profile case_527: authorized=1.00, delete=1.00, verify=0.98, redact=0.00, label=delete_account
+========== DEBUG case_527 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 1
+Selected evidence count: 1
+Allowed evidence IDs count: 2
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Intent profile case_528: authorized=0.98, delete=0.99, verify=0.90, redact=0.01, label=delete_account
+========== DEBUG case_528 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 1
+Selected evidence count: 1
+Allowed evidence IDs count: 1
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+case_519: applied verification-bias repair pass
+Processed case_519: INCOMPLETE
+Processed case_524: COMPLETE
+Intent profile case_529: authorized=0.98, delete=0.99, verify=0.90, redact=0.02, label=delete_account
+========== DEBUG case_529 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 1
+Selected evidence count: 1
+Allowed evidence IDs count: 1
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Intent profile case_530: authorized=0.99, delete=1.00, verify=0.01, redact=0.00, label=delete_account
+========== DEBUG case_530 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 1
+Selected evidence count: 1
+Allowed evidence IDs count: 3
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+case_523: applied verification-bias repair pass
+Processed case_523: INCOMPLETE
+Intent profile case_531: authorized=0.95, delete=0.98, verify=0.92, redact=0.00, label=delete_account
+========== DEBUG case_531 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 1
+Selected evidence count: 1
+Allowed evidence IDs count: 1
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+case_522: applied verification-bias repair pass
+Processed case_522: INCOMPLETE
+Processed case_530: COMPLETE
+Intent profile case_532: authorized=0.98, delete=0.99, verify=0.88, redact=0.92, label=delete_account
+========== DEBUG case_532 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 1
+Selected evidence count: 1
+Allowed evidence IDs count: 3
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_62 | captured_at=2026-01-29T11:44:59Z | file_name=service_resource_export_20260129_114459.json | upload_key=evidence__records__service_resource_export_20260129_114459.json | allowed=YES
+======================================================
+Intent profile case_533: authorized=0.00, delete=0.00, verify=0.00, redact=0.95, label=redact_identifiers
+Intent gate: case_533 marked NOT_APPLICABLE. request_text='The mobile number on my profile is out of date. Please replace it with the new one and leave the account active.'
+case_525: applied verification-bias repair pass
+Processed case_525: COMPLETE
+Intent profile case_535: authorized=0.00, delete=0.00, verify=0.00, redact=0.00, label=not_deletion
+Intent gate: case_535 marked NOT_APPLICABLE. request_text='I'd like to download my account information in a portable format. Please keep the account as it is.'
+Intent profile case_534: authorized=0.01, delete=0.00, verify=0.00, redact=0.01, label=not_deletion
+Intent gate: case_534 marked NOT_APPLICABLE. request_text='Please stop the promotional emails. I still need the account and my order history, so I am not asking for deletion.'
+Intent profile case_536: authorized=0.01, delete=0.01, verify=0.00, redact=0.00, label=not_deletion
+Intent gate: case_536 marked NOT_APPLICABLE. request_text='I can't access my profile and need help resetting the login. Do not close the account.'
+case_526: applied verification-bias repair pass
+Processed case_526: INCOMPLETE
+Intent profile case_537: authorized=0.00, delete=0.00, verify=0.00, redact=1.00, label=redact_identifiers
+Intent gate: case_537 marked NOT_APPLICABLE. request_text='My surname is misspelled on the account. Can you correct it without removing any of my records?'
+case_527: applied verification-bias repair pass
+Processed case_527: INCOMPLETE
+Intent profile case_539: authorized=0.01, delete=0.01, verify=0.01, redact=0.01, label=not_deletion
+Intent gate: case_539 marked NOT_APPLICABLE. request_text='Can you tell me what personal information you hold about me? This is an information request, not a request to erase it.'
+case_529: applied verification-bias repair pass
+Processed case_529: INCOMPLETE
+Intent profile case_540: authorized=0.01, delete=0.01, verify=0.01, redact=0.01, label=not_deletion
+Intent gate: case_540 marked NOT_APPLICABLE. request_text='I need a copy of last year's invoices for my records. Please leave my profile and purchase history in place.'
+case_528: applied verification-bias repair pass
+Processed case_528: INCOMPLETE
+Intent profile case_538: authorized=0.00, delete=0.00, verify=0.00, redact=0.00, label=not_deletion
+Intent gate: case_538 marked NOT_APPLICABLE. request_text='Please remove me from marketing lists only. I still want receipts and service messages for this account.'
+Intent profile case_541: authorized=0.00, delete=0.00, verify=0.00, redact=0.00, label=not_deletion
+Intent gate: case_541 marked NOT_APPLICABLE. request_text='Please change the email address used for this account. I want to continue using the service.'
+Intent profile case_542: authorized=0.00, delete=0.00, verify=0.00, redact=0.00, label=not_deletion
+Intent gate: case_542 marked NOT_APPLICABLE. request_text='Could you send me a copy of the information held on my account? I still use it, so please don't delete or change anything.'
+Intent profile case_545: authorized=0.99, delete=0.99, verify=0.95, redact=0.00, label=delete_account
+========== DEBUG case_545 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 88
+Selected evidence count: 24
+Intent profile case_543: authorized=0.98, delete=0.99, verify=0.85, redact=0.02, label=delete_account
+Allowed evidence IDs count: 25
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_52 | captured_at=2026-09-20T12:00:00Z | file_name=customer_data_failover_replica_20260920.sql | upload_key=evidence__databases__customer_data_failover_replica_20260920.sql.txt | allowed=YES
+  - file_id=evidence_06 | captured_at=2026-09-18T11:55:24Z | file_name=structured_service_events_eu_west_20260918.log | upload_key=evidence__logs__structured_service_events_eu_west_20260918.log.txt | allowed=YES
+  - file_id=evidence_61 | captured_at=2026-09-17T22:00:19Z | file_name=support_replica.log | upload_key=evidence__logs__support_replica.log.txt | allowed=YES
+  - file_id=evidence_02 | captured_at=2026-09-17T12:00:00Z | file_name=customer_data_snapshot_bundle_20260917.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260917.json | allowed=YES
+========== DEBUG case_543 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 88
+Selected evidence count: 24
+Allowed evidence IDs count: 24
+  - file_id=evidence_93 | captured_at=2026-09-16T08:37:39Z | file_name=customer_data_inventory_20260916.sql | upload_key=evidence__databases__customer_data_inventory_20260916.sql.txt | allowed=YES
+  - file_id=evidence_60 | captured_at=2026-09-16T07:20:00Z | file_name=marketing_profile_console.png | upload_key=evidence__images__marketing_profile_console.png.txt | allowed=YES
+  - file_id=evidence_01 | captured_at=2026-09-15T11:59:39Z | file_name=service_events_ap_south_20260915.log | upload_key=evidence__logs__service_events_ap_south_20260915.log.txt | allowed=YES
+  - file_id=evidence_92 | captured_at=2026-09-15T11:44:55Z | file_name=service_resource_export_20260915_114455.json | upload_key=evidence__records__service_resource_export_20260915_114455.json | allowed=YES
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_52 | captured_at=2026-09-20T12:00:00Z | file_name=customer_data_failover_replica_20260920.sql | upload_key=evidence__databases__customer_data_failover_replica_20260920.sql.txt | allowed=YES
+  - file_id=evidence_06 | captured_at=2026-09-18T11:55:24Z | file_name=structured_service_events_eu_west_20260918.log | upload_key=evidence__logs__structured_service_events_eu_west_20260918.log.txt | allowed=YES
+  - file_id=evidence_59 | captured_at=2026-09-14T15:40:00Z | file_name=customer_export_jobs_20260914.json | upload_key=evidence__records__customer_export_jobs_20260914.json | allowed=YES
+  - file_id=evidence_61 | captured_at=2026-09-17T22:00:19Z | file_name=support_replica.log | upload_key=evidence__logs__support_replica.log.txt | allowed=YES
+  - file_id=evidence_02 | captured_at=2026-09-17T12:00:00Z | file_name=customer_data_snapshot_bundle_20260917.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260917.json | allowed=YES
+  - file_id=evidence_58 | captured_at=2026-09-12T07:30:00Z | file_name=delivery_correction_attachment.pdf | upload_key=evidence__documents__delivery_correction_attachment.pdf | allowed=YES
+  - file_id=evidence_93 | captured_at=2026-09-16T08:37:39Z | file_name=customer_data_inventory_20260916.sql | upload_key=evidence__databases__customer_data_inventory_20260916.sql.txt | allowed=YES
+  - file_id=evidence_91 | captured_at=2026-09-11T07:42:53Z | file_name=resource_lookup_trace_20260911_074253.log | upload_key=evidence__logs__resource_lookup_trace_20260911_074253.log.txt | allowed=YES
+  - file_id=evidence_60 | captured_at=2026-09-16T07:20:00Z | file_name=marketing_profile_console.png | upload_key=evidence__images__marketing_profile_console.png.txt | allowed=YES
+  - file_id=evidence_57 | captured_at=2026-09-10T08:45:00Z | file_name=customer_search_primary_20260910.sql | upload_key=evidence__databases__customer_search_primary_20260910.sql.txt | allowed=YES
+  - file_id=evidence_01 | captured_at=2026-09-15T11:59:39Z | file_name=service_events_ap_south_20260915.log | upload_key=evidence__logs__service_events_ap_south_20260915.log.txt | allowed=YES
+  - file_id=evidence_92 | captured_at=2026-09-15T11:44:55Z | file_name=service_resource_export_20260915_114455.json | upload_key=evidence__records__service_resource_export_20260915_114455.json | allowed=YES
+  - file_id=evidence_56 | captured_at=2026-09-07T09:45:00Z | file_name=customer_analytics_report_20260907.json | upload_key=evidence__records__customer_analytics_report_20260907.json | allowed=YES
+  - file_id=evidence_59 | captured_at=2026-09-14T15:40:00Z | file_name=customer_export_jobs_20260914.json | upload_key=evidence__records__customer_export_jobs_20260914.json | allowed=YES
+  - file_id=evidence_58 | captured_at=2026-09-12T07:30:00Z | file_name=delivery_correction_attachment.pdf | upload_key=evidence__documents__delivery_correction_attachment.pdf | allowed=YES
+  - file_id=evidence_08 | captured_at=2026-09-06T07:00:00Z | file_name=search_index_diagnostic_20260906.log | upload_key=evidence__logs__search_index_diagnostic_20260906.log.txt | allowed=YES
+  - file_id=evidence_91 | captured_at=2026-09-11T07:42:53Z | file_name=resource_lookup_trace_20260911_074253.log | upload_key=evidence__logs__resource_lookup_trace_20260911_074253.log.txt | allowed=YES
+  - file_id=evidence_57 | captured_at=2026-09-10T08:45:00Z | file_name=customer_search_primary_20260910.sql | upload_key=evidence__databases__customer_search_primary_20260910.sql.txt | allowed=YES
+  - file_id=evidence_56 | captured_at=2026-09-07T09:45:00Z | file_name=customer_analytics_report_20260907.json | upload_key=evidence__records__customer_analytics_report_20260907.json | allowed=YES
+  - file_id=evidence_08 | captured_at=2026-09-06T07:00:00Z | file_name=search_index_diagnostic_20260906.log | upload_key=evidence__logs__search_index_diagnostic_20260906.log.txt | allowed=YES
+  - file_id=evidence_37 | captured_at=2026-09-05T07:00:00Z | file_name=security_audit_explorer_20260905.png | upload_key=evidence__images__security_audit_explorer_20260905.png.txt | allowed=YES
+  - file_id=evidence_37 | captured_at=2026-09-05T07:00:00Z | file_name=security_audit_explorer_20260905.png | upload_key=evidence__images__security_audit_explorer_20260905.png.txt | allowed=YES
+  - file_id=evidence_55 | captured_at=2026-09-05T06:30:00Z | file_name=security_retention_extract.pdf | upload_key=evidence__documents__security_retention_extract.pdf | allowed=YES
+  - file_id=evidence_55 | captured_at=2026-09-05T06:30:00Z | file_name=security_retention_extract.pdf | upload_key=evidence__documents__security_retention_extract.pdf | allowed=YES
+  - file_id=evidence_54 | captured_at=2026-09-02T23:00:00Z | file_name=customer_accounts_failover_replica_20260902.sql | upload_key=evidence__databases__customer_accounts_failover_replica_20260902.sql.txt | allowed=YES
+  - file_id=evidence_09 | captured_at=2026-09-01T06:00:00Z | file_name=search_index_inspector_20260901.png | upload_key=evidence__images__search_index_inspector_20260901.png.txt | allowed=YES
+  - file_id=evidence_89 | captured_at=2026-09-01T05:33:16Z | file_name=service_resource_export_20260901_053316.json | upload_key=evidence__records__service_resource_export_20260901_053316.json | allowed=YES
+  - file_id=evidence_10 | captured_at=2026-08-27T12:00:00Z | file_name=customer_data_read_replica_20260827.sql | upload_key=evidence__databases__customer_data_read_replica_20260827.sql.txt | allowed=YES
+  - file_id=evidence_54 | captured_at=2026-09-02T23:00:00Z | file_name=customer_accounts_failover_replica_20260902.sql | upload_key=evidence__databases__customer_accounts_failover_replica_20260902.sql.txt | allowed=YES
+  - file_id=evidence_11 | captured_at=2026-08-24T13:56:43Z | file_name=syslog_archive_us_east_20260824.log | upload_key=evidence__logs__syslog_archive_us_east_20260824.log.txt | allowed=YES
+  - file_id=evidence_88 | captured_at=2026-08-22T10:39:10Z | file_name=resource_lookup_trace_20260822_103910.log | upload_key=evidence__logs__resource_lookup_trace_20260822_103910.log.txt | allowed=YES
+  - file_id=evidence_13 | captured_at=2026-08-12T09:00:00Z | file_name=connector_configurations_20260812.json | upload_key=evidence__records__connector_configurations_20260812.json | allowed=YES
+  - file_id=evidence_14 | captured_at=2026-08-07T08:00:00Z | file_name=connector_management_console_20260807.png | upload_key=evidence__images__connector_management_console_20260807.png.txt | allowed=YES
+  - file_id=evidence_09 | captured_at=2026-09-01T06:00:00Z | file_name=search_index_inspector_20260901.png | upload_key=evidence__images__search_index_inspector_20260901.png.txt | allowed=YES
+======================================================
+  - file_id=evidence_89 | captured_at=2026-09-01T05:33:16Z | file_name=service_resource_export_20260901_053316.json | upload_key=evidence__records__service_resource_export_20260901_053316.json | allowed=YES
+  - file_id=evidence_10 | captured_at=2026-08-27T12:00:00Z | file_name=customer_data_read_replica_20260827.sql | upload_key=evidence__databases__customer_data_read_replica_20260827.sql.txt | allowed=YES
+  - file_id=evidence_11 | captured_at=2026-08-24T13:56:43Z | file_name=syslog_archive_us_east_20260824.log | upload_key=evidence__logs__syslog_archive_us_east_20260824.log.txt | allowed=YES
+  - file_id=evidence_88 | captured_at=2026-08-22T10:39:10Z | file_name=resource_lookup_trace_20260822_103910.log | upload_key=evidence__logs__resource_lookup_trace_20260822_103910.log.txt | allowed=YES
+  - file_id=evidence_13 | captured_at=2026-08-12T09:00:00Z | file_name=connector_configurations_20260812.json | upload_key=evidence__records__connector_configurations_20260812.json | allowed=YES
+  - file_id=evidence_14 | captured_at=2026-08-07T08:00:00Z | file_name=connector_management_console_20260807.png | upload_key=evidence__images__connector_management_console_20260807.png.txt | allowed=YES
+======================================================
+Intent profile case_544: authorized=0.95, delete=0.98, verify=0.40, redact=0.00, label=delete_account
+========== DEBUG case_544 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 88
+Selected evidence count: 24
+Allowed evidence IDs count: 24
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_52 | captured_at=2026-09-20T12:00:00Z | file_name=customer_data_failover_replica_20260920.sql | upload_key=evidence__databases__customer_data_failover_replica_20260920.sql.txt | allowed=YES
+  - file_id=evidence_06 | captured_at=2026-09-18T11:55:24Z | file_name=structured_service_events_eu_west_20260918.log | upload_key=evidence__logs__structured_service_events_eu_west_20260918.log.txt | allowed=YES
+  - file_id=evidence_61 | captured_at=2026-09-17T22:00:19Z | file_name=support_replica.log | upload_key=evidence__logs__support_replica.log.txt | allowed=YES
+  - file_id=evidence_02 | captured_at=2026-09-17T12:00:00Z | file_name=customer_data_snapshot_bundle_20260917.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260917.json | allowed=YES
+  - file_id=evidence_93 | captured_at=2026-09-16T08:37:39Z | file_name=customer_data_inventory_20260916.sql | upload_key=evidence__databases__customer_data_inventory_20260916.sql.txt | allowed=YES
+  - file_id=evidence_60 | captured_at=2026-09-16T07:20:00Z | file_name=marketing_profile_console.png | upload_key=evidence__images__marketing_profile_console.png.txt | allowed=YES
+  - file_id=evidence_01 | captured_at=2026-09-15T11:59:39Z | file_name=service_events_ap_south_20260915.log | upload_key=evidence__logs__service_events_ap_south_20260915.log.txt | allowed=YES
+  - file_id=evidence_92 | captured_at=2026-09-15T11:44:55Z | file_name=service_resource_export_20260915_114455.json | upload_key=evidence__records__service_resource_export_20260915_114455.json | allowed=YES
+  - file_id=evidence_59 | captured_at=2026-09-14T15:40:00Z | file_name=customer_export_jobs_20260914.json | upload_key=evidence__records__customer_export_jobs_20260914.json | allowed=YES
+  - file_id=evidence_58 | captured_at=2026-09-12T07:30:00Z | file_name=delivery_correction_attachment.pdf | upload_key=evidence__documents__delivery_correction_attachment.pdf | allowed=YES
+  - file_id=evidence_91 | captured_at=2026-09-11T07:42:53Z | file_name=resource_lookup_trace_20260911_074253.log | upload_key=evidence__logs__resource_lookup_trace_20260911_074253.log.txt | allowed=YES
+  - file_id=evidence_57 | captured_at=2026-09-10T08:45:00Z | file_name=customer_search_primary_20260910.sql | upload_key=evidence__databases__customer_search_primary_20260910.sql.txt | allowed=YES
+  - file_id=evidence_56 | captured_at=2026-09-07T09:45:00Z | file_name=customer_analytics_report_20260907.json | upload_key=evidence__records__customer_analytics_report_20260907.json | allowed=YES
+  - file_id=evidence_08 | captured_at=2026-09-06T07:00:00Z | file_name=search_index_diagnostic_20260906.log | upload_key=evidence__logs__search_index_diagnostic_20260906.log.txt | allowed=YES
+  - file_id=evidence_37 | captured_at=2026-09-05T07:00:00Z | file_name=security_audit_explorer_20260905.png | upload_key=evidence__images__security_audit_explorer_20260905.png.txt | allowed=YES
+  - file_id=evidence_55 | captured_at=2026-09-05T06:30:00Z | file_name=security_retention_extract.pdf | upload_key=evidence__documents__security_retention_extract.pdf | allowed=YES
+  - file_id=evidence_54 | captured_at=2026-09-02T23:00:00Z | file_name=customer_accounts_failover_replica_20260902.sql | upload_key=evidence__databases__customer_accounts_failover_replica_20260902.sql.txt | allowed=YES
+  - file_id=evidence_09 | captured_at=2026-09-01T06:00:00Z | file_name=search_index_inspector_20260901.png | upload_key=evidence__images__search_index_inspector_20260901.png.txt | allowed=YES
+  - file_id=evidence_89 | captured_at=2026-09-01T05:33:16Z | file_name=service_resource_export_20260901_053316.json | upload_key=evidence__records__service_resource_export_20260901_053316.json | allowed=YES
+  - file_id=evidence_10 | captured_at=2026-08-27T12:00:00Z | file_name=customer_data_read_replica_20260827.sql | upload_key=evidence__databases__customer_data_read_replica_20260827.sql.txt | allowed=YES
+  - file_id=evidence_11 | captured_at=2026-08-24T13:56:43Z | file_name=syslog_archive_us_east_20260824.log | upload_key=evidence__logs__syslog_archive_us_east_20260824.log.txt | allowed=YES
+  - file_id=evidence_88 | captured_at=2026-08-22T10:39:10Z | file_name=resource_lookup_trace_20260822_103910.log | upload_key=evidence__logs__resource_lookup_trace_20260822_103910.log.txt | allowed=YES
+  - file_id=evidence_13 | captured_at=2026-08-12T09:00:00Z | file_name=connector_configurations_20260812.json | upload_key=evidence__records__connector_configurations_20260812.json | allowed=YES
+  - file_id=evidence_14 | captured_at=2026-08-07T08:00:00Z | file_name=connector_management_console_20260807.png | upload_key=evidence__images__connector_management_console_20260807.png.txt | allowed=YES
+======================================================
+Intent profile case_548: authorized=0.99, delete=0.98, verify=0.15, redact=0.02, label=delete_account
+========== DEBUG case_548 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 88
+Selected evidence count: 24
+Allowed evidence IDs count: 24
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_52 | captured_at=2026-09-20T12:00:00Z | file_name=customer_data_failover_replica_20260920.sql | upload_key=evidence__databases__customer_data_failover_replica_20260920.sql.txt | allowed=YES
+  - file_id=evidence_06 | captured_at=2026-09-18T11:55:24Z | file_name=structured_service_events_eu_west_20260918.log | upload_key=evidence__logs__structured_service_events_eu_west_20260918.log.txt | allowed=YES
+  - file_id=evidence_61 | captured_at=2026-09-17T22:00:19Z | file_name=support_replica.log | upload_key=evidence__logs__support_replica.log.txt | allowed=YES
+  - file_id=evidence_02 | captured_at=2026-09-17T12:00:00Z | file_name=customer_data_snapshot_bundle_20260917.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260917.json | allowed=YES
+  - file_id=evidence_93 | captured_at=2026-09-16T08:37:39Z | file_name=customer_data_inventory_20260916.sql | upload_key=evidence__databases__customer_data_inventory_20260916.sql.txt | allowed=YES
+  - file_id=evidence_60 | captured_at=2026-09-16T07:20:00Z | file_name=marketing_profile_console.png | upload_key=evidence__images__marketing_profile_console.png.txt | allowed=YES
+  - file_id=evidence_01 | captured_at=2026-09-15T11:59:39Z | file_name=service_events_ap_south_20260915.log | upload_key=evidence__logs__service_events_ap_south_20260915.log.txt | allowed=YES
+  - file_id=evidence_92 | captured_at=2026-09-15T11:44:55Z | file_name=service_resource_export_20260915_114455.json | upload_key=evidence__records__service_resource_export_20260915_114455.json | allowed=YES
+  - file_id=evidence_59 | captured_at=2026-09-14T15:40:00Z | file_name=customer_export_jobs_20260914.json | upload_key=evidence__records__customer_export_jobs_20260914.json | allowed=YES
+  - file_id=evidence_58 | captured_at=2026-09-12T07:30:00Z | file_name=delivery_correction_attachment.pdf | upload_key=evidence__documents__delivery_correction_attachment.pdf | allowed=YES
+  - file_id=evidence_91 | captured_at=2026-09-11T07:42:53Z | file_name=resource_lookup_trace_20260911_074253.log | upload_key=evidence__logs__resource_lookup_trace_20260911_074253.log.txt | allowed=YES
+  - file_id=evidence_57 | captured_at=2026-09-10T08:45:00Z | file_name=customer_search_primary_20260910.sql | upload_key=evidence__databases__customer_search_primary_20260910.sql.txt | allowed=YES
+  - file_id=evidence_56 | captured_at=2026-09-07T09:45:00Z | file_name=customer_analytics_report_20260907.json | upload_key=evidence__records__customer_analytics_report_20260907.json | allowed=YES
+  - file_id=evidence_08 | captured_at=2026-09-06T07:00:00Z | file_name=search_index_diagnostic_20260906.log | upload_key=evidence__logs__search_index_diagnostic_20260906.log.txt | allowed=YES
+  - file_id=evidence_37 | captured_at=2026-09-05T07:00:00Z | file_name=security_audit_explorer_20260905.png | upload_key=evidence__images__security_audit_explorer_20260905.png.txt | allowed=YES
+  - file_id=evidence_55 | captured_at=2026-09-05T06:30:00Z | file_name=security_retention_extract.pdf | upload_key=evidence__documents__security_retention_extract.pdf | allowed=YES
+  - file_id=evidence_54 | captured_at=2026-09-02T23:00:00Z | file_name=customer_accounts_failover_replica_20260902.sql | upload_key=evidence__databases__customer_accounts_failover_replica_20260902.sql.txt | allowed=YES
+  - file_id=evidence_09 | captured_at=2026-09-01T06:00:00Z | file_name=search_index_inspector_20260901.png | upload_key=evidence__images__search_index_inspector_20260901.png.txt | allowed=YES
+  - file_id=evidence_89 | captured_at=2026-09-01T05:33:16Z | file_name=service_resource_export_20260901_053316.json | upload_key=evidence__records__service_resource_export_20260901_053316.json | allowed=YES
+  - file_id=evidence_10 | captured_at=2026-08-27T12:00:00Z | file_name=customer_data_read_replica_20260827.sql | upload_key=evidence__databases__customer_data_read_replica_20260827.sql.txt | allowed=YES
+  - file_id=evidence_11 | captured_at=2026-08-24T13:56:43Z | file_name=syslog_archive_us_east_20260824.log | upload_key=evidence__logs__syslog_archive_us_east_20260824.log.txt | allowed=YES
+  - file_id=evidence_88 | captured_at=2026-08-22T10:39:10Z | file_name=resource_lookup_trace_20260822_103910.log | upload_key=evidence__logs__resource_lookup_trace_20260822_103910.log.txt | allowed=YES
+  - file_id=evidence_13 | captured_at=2026-08-12T09:00:00Z | file_name=connector_configurations_20260812.json | upload_key=evidence__records__connector_configurations_20260812.json | allowed=YES
+  - file_id=evidence_14 | captured_at=2026-08-07T08:00:00Z | file_name=connector_management_console_20260807.png | upload_key=evidence__images__connector_management_console_20260807.png.txt | allowed=YES
+======================================================
+Intent profile case_546: authorized=0.97, delete=0.99, verify=0.88, redact=0.65, label=delete_account
+========== DEBUG case_546 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 88
+Selected evidence count: 24
+Allowed evidence IDs count: 24
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_52 | captured_at=2026-09-20T12:00:00Z | file_name=customer_data_failover_replica_20260920.sql | upload_key=evidence__databases__customer_data_failover_replica_20260920.sql.txt | allowed=YES
+  - file_id=evidence_06 | captured_at=2026-09-18T11:55:24Z | file_name=structured_service_events_eu_west_20260918.log | upload_key=evidence__logs__structured_service_events_eu_west_20260918.log.txt | allowed=YES
+  - file_id=evidence_61 | captured_at=2026-09-17T22:00:19Z | file_name=support_replica.log | upload_key=evidence__logs__support_replica.log.txt | allowed=YES
+  - file_id=evidence_02 | captured_at=2026-09-17T12:00:00Z | file_name=customer_data_snapshot_bundle_20260917.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260917.json | allowed=YES
+  - file_id=evidence_93 | captured_at=2026-09-16T08:37:39Z | file_name=customer_data_inventory_20260916.sql | upload_key=evidence__databases__customer_data_inventory_20260916.sql.txt | allowed=YES
+  - file_id=evidence_60 | captured_at=2026-09-16T07:20:00Z | file_name=marketing_profile_console.png | upload_key=evidence__images__marketing_profile_console.png.txt | allowed=YES
+  - file_id=evidence_01 | captured_at=2026-09-15T11:59:39Z | file_name=service_events_ap_south_20260915.log | upload_key=evidence__logs__service_events_ap_south_20260915.log.txt | allowed=YES
+  - file_id=evidence_92 | captured_at=2026-09-15T11:44:55Z | file_name=service_resource_export_20260915_114455.json | upload_key=evidence__records__service_resource_export_20260915_114455.json | allowed=YES
+  - file_id=evidence_59 | captured_at=2026-09-14T15:40:00Z | file_name=customer_export_jobs_20260914.json | upload_key=evidence__records__customer_export_jobs_20260914.json | allowed=YES
+  - file_id=evidence_58 | captured_at=2026-09-12T07:30:00Z | file_name=delivery_correction_attachment.pdf | upload_key=evidence__documents__delivery_correction_attachment.pdf | allowed=YES
+  - file_id=evidence_91 | captured_at=2026-09-11T07:42:53Z | file_name=resource_lookup_trace_20260911_074253.log | upload_key=evidence__logs__resource_lookup_trace_20260911_074253.log.txt | allowed=YES
+  - file_id=evidence_57 | captured_at=2026-09-10T08:45:00Z | file_name=customer_search_primary_20260910.sql | upload_key=evidence__databases__customer_search_primary_20260910.sql.txt | allowed=YES
+  - file_id=evidence_56 | captured_at=2026-09-07T09:45:00Z | file_name=customer_analytics_report_20260907.json | upload_key=evidence__records__customer_analytics_report_20260907.json | allowed=YES
+  - file_id=evidence_08 | captured_at=2026-09-06T07:00:00Z | file_name=search_index_diagnostic_20260906.log | upload_key=evidence__logs__search_index_diagnostic_20260906.log.txt | allowed=YES
+  - file_id=evidence_37 | captured_at=2026-09-05T07:00:00Z | file_name=security_audit_explorer_20260905.png | upload_key=evidence__images__security_audit_explorer_20260905.png.txt | allowed=YES
+  - file_id=evidence_55 | captured_at=2026-09-05T06:30:00Z | file_name=security_retention_extract.pdf | upload_key=evidence__documents__security_retention_extract.pdf | allowed=YES
+  - file_id=evidence_54 | captured_at=2026-09-02T23:00:00Z | file_name=customer_accounts_failover_replica_20260902.sql | upload_key=evidence__databases__customer_accounts_failover_replica_20260902.sql.txt | allowed=YES
+  - file_id=evidence_09 | captured_at=2026-09-01T06:00:00Z | file_name=search_index_inspector_20260901.png | upload_key=evidence__images__search_index_inspector_20260901.png.txt | allowed=YES
+  - file_id=evidence_89 | captured_at=2026-09-01T05:33:16Z | file_name=service_resource_export_20260901_053316.json | upload_key=evidence__records__service_resource_export_20260901_053316.json | allowed=YES
+  - file_id=evidence_10 | captured_at=2026-08-27T12:00:00Z | file_name=customer_data_read_replica_20260827.sql | upload_key=evidence__databases__customer_data_read_replica_20260827.sql.txt | allowed=YES
+  - file_id=evidence_11 | captured_at=2026-08-24T13:56:43Z | file_name=syslog_archive_us_east_20260824.log | upload_key=evidence__logs__syslog_archive_us_east_20260824.log.txt | allowed=YES
+  - file_id=evidence_88 | captured_at=2026-08-22T10:39:10Z | file_name=resource_lookup_trace_20260822_103910.log | upload_key=evidence__logs__resource_lookup_trace_20260822_103910.log.txt | allowed=YES
+  - file_id=evidence_13 | captured_at=2026-08-12T09:00:00Z | file_name=connector_configurations_20260812.json | upload_key=evidence__records__connector_configurations_20260812.json | allowed=YES
+  - file_id=evidence_14 | captured_at=2026-08-07T08:00:00Z | file_name=connector_management_console_20260807.png | upload_key=evidence__images__connector_management_console_20260807.png.txt | allowed=YES
+======================================================
+Intent profile case_547: authorized=0.98, delete=0.99, verify=0.05, redact=0.00, label=delete_account
+========== DEBUG case_547 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 88
+Selected evidence count: 24
+Allowed evidence IDs count: 24
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_52 | captured_at=2026-09-20T12:00:00Z | file_name=customer_data_failover_replica_20260920.sql | upload_key=evidence__databases__customer_data_failover_replica_20260920.sql.txt | allowed=YES
+  - file_id=evidence_06 | captured_at=2026-09-18T11:55:24Z | file_name=structured_service_events_eu_west_20260918.log | upload_key=evidence__logs__structured_service_events_eu_west_20260918.log.txt | allowed=YES
+  - file_id=evidence_61 | captured_at=2026-09-17T22:00:19Z | file_name=support_replica.log | upload_key=evidence__logs__support_replica.log.txt | allowed=YES
+  - file_id=evidence_02 | captured_at=2026-09-17T12:00:00Z | file_name=customer_data_snapshot_bundle_20260917.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260917.json | allowed=YES
+  - file_id=evidence_93 | captured_at=2026-09-16T08:37:39Z | file_name=customer_data_inventory_20260916.sql | upload_key=evidence__databases__customer_data_inventory_20260916.sql.txt | allowed=YES
+  - file_id=evidence_60 | captured_at=2026-09-16T07:20:00Z | file_name=marketing_profile_console.png | upload_key=evidence__images__marketing_profile_console.png.txt | allowed=YES
+  - file_id=evidence_01 | captured_at=2026-09-15T11:59:39Z | file_name=service_events_ap_south_20260915.log | upload_key=evidence__logs__service_events_ap_south_20260915.log.txt | allowed=YES
+  - file_id=evidence_92 | captured_at=2026-09-15T11:44:55Z | file_name=service_resource_export_20260915_114455.json | upload_key=evidence__records__service_resource_export_20260915_114455.json | allowed=YES
+  - file_id=evidence_59 | captured_at=2026-09-14T15:40:00Z | file_name=customer_export_jobs_20260914.json | upload_key=evidence__records__customer_export_jobs_20260914.json | allowed=YES
+  - file_id=evidence_58 | captured_at=2026-09-12T07:30:00Z | file_name=delivery_correction_attachment.pdf | upload_key=evidence__documents__delivery_correction_attachment.pdf | allowed=YES
+  - file_id=evidence_91 | captured_at=2026-09-11T07:42:53Z | file_name=resource_lookup_trace_20260911_074253.log | upload_key=evidence__logs__resource_lookup_trace_20260911_074253.log.txt | allowed=YES
+  - file_id=evidence_57 | captured_at=2026-09-10T08:45:00Z | file_name=customer_search_primary_20260910.sql | upload_key=evidence__databases__customer_search_primary_20260910.sql.txt | allowed=YES
+  - file_id=evidence_56 | captured_at=2026-09-07T09:45:00Z | file_name=customer_analytics_report_20260907.json | upload_key=evidence__records__customer_analytics_report_20260907.json | allowed=YES
+  - file_id=evidence_08 | captured_at=2026-09-06T07:00:00Z | file_name=search_index_diagnostic_20260906.log | upload_key=evidence__logs__search_index_diagnostic_20260906.log.txt | allowed=YES
+  - file_id=evidence_37 | captured_at=2026-09-05T07:00:00Z | file_name=security_audit_explorer_20260905.png | upload_key=evidence__images__security_audit_explorer_20260905.png.txt | allowed=YES
+  - file_id=evidence_55 | captured_at=2026-09-05T06:30:00Z | file_name=security_retention_extract.pdf | upload_key=evidence__documents__security_retention_extract.pdf | allowed=YES
+  - file_id=evidence_54 | captured_at=2026-09-02T23:00:00Z | file_name=customer_accounts_failover_replica_20260902.sql | upload_key=evidence__databases__customer_accounts_failover_replica_20260902.sql.txt | allowed=YES
+  - file_id=evidence_09 | captured_at=2026-09-01T06:00:00Z | file_name=search_index_inspector_20260901.png | upload_key=evidence__images__search_index_inspector_20260901.png.txt | allowed=YES
+  - file_id=evidence_89 | captured_at=2026-09-01T05:33:16Z | file_name=service_resource_export_20260901_053316.json | upload_key=evidence__records__service_resource_export_20260901_053316.json | allowed=YES
+  - file_id=evidence_10 | captured_at=2026-08-27T12:00:00Z | file_name=customer_data_read_replica_20260827.sql | upload_key=evidence__databases__customer_data_read_replica_20260827.sql.txt | allowed=YES
+  - file_id=evidence_11 | captured_at=2026-08-24T13:56:43Z | file_name=syslog_archive_us_east_20260824.log | upload_key=evidence__logs__syslog_archive_us_east_20260824.log.txt | allowed=YES
+  - file_id=evidence_88 | captured_at=2026-08-22T10:39:10Z | file_name=resource_lookup_trace_20260822_103910.log | upload_key=evidence__logs__resource_lookup_trace_20260822_103910.log.txt | allowed=YES
+  - file_id=evidence_13 | captured_at=2026-08-12T09:00:00Z | file_name=connector_configurations_20260812.json | upload_key=evidence__records__connector_configurations_20260812.json | allowed=YES
+  - file_id=evidence_14 | captured_at=2026-08-07T08:00:00Z | file_name=connector_management_console_20260807.png | upload_key=evidence__images__connector_management_console_20260807.png.txt | allowed=YES
+======================================================
+case_531: applied verification-bias repair pass
+Processed case_531: COMPLETE
+Processed case_544: COMPLETE
+Intent profile case_549: authorized=1.00, delete=1.00, verify=0.90, redact=0.60, label=delete_account
+========== DEBUG case_549 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 88
+Selected evidence count: 24
+Allowed evidence IDs count: 24
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_52 | captured_at=2026-09-20T12:00:00Z | file_name=customer_data_failover_replica_20260920.sql | upload_key=evidence__databases__customer_data_failover_replica_20260920.sql.txt | allowed=YES
+  - file_id=evidence_06 | captured_at=2026-09-18T11:55:24Z | file_name=structured_service_events_eu_west_20260918.log | upload_key=evidence__logs__structured_service_events_eu_west_20260918.log.txt | allowed=YES
+  - file_id=evidence_61 | captured_at=2026-09-17T22:00:19Z | file_name=support_replica.log | upload_key=evidence__logs__support_replica.log.txt | allowed=YES
+  - file_id=evidence_02 | captured_at=2026-09-17T12:00:00Z | file_name=customer_data_snapshot_bundle_20260917.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260917.json | allowed=YES
+  - file_id=evidence_93 | captured_at=2026-09-16T08:37:39Z | file_name=customer_data_inventory_20260916.sql | upload_key=evidence__databases__customer_data_inventory_20260916.sql.txt | allowed=YES
+  - file_id=evidence_60 | captured_at=2026-09-16T07:20:00Z | file_name=marketing_profile_console.png | upload_key=evidence__images__marketing_profile_console.png.txt | allowed=YES
+  - file_id=evidence_01 | captured_at=2026-09-15T11:59:39Z | file_name=service_events_ap_south_20260915.log | upload_key=evidence__logs__service_events_ap_south_20260915.log.txt | allowed=YES
+  - file_id=evidence_92 | captured_at=2026-09-15T11:44:55Z | file_name=service_resource_export_20260915_114455.json | upload_key=evidence__records__service_resource_export_20260915_114455.json | allowed=YES
+  - file_id=evidence_59 | captured_at=2026-09-14T15:40:00Z | file_name=customer_export_jobs_20260914.json | upload_key=evidence__records__customer_export_jobs_20260914.json | allowed=YES
+  - file_id=evidence_58 | captured_at=2026-09-12T07:30:00Z | file_name=delivery_correction_attachment.pdf | upload_key=evidence__documents__delivery_correction_attachment.pdf | allowed=YES
+  - file_id=evidence_91 | captured_at=2026-09-11T07:42:53Z | file_name=resource_lookup_trace_20260911_074253.log | upload_key=evidence__logs__resource_lookup_trace_20260911_074253.log.txt | allowed=YES
+  - file_id=evidence_57 | captured_at=2026-09-10T08:45:00Z | file_name=customer_search_primary_20260910.sql | upload_key=evidence__databases__customer_search_primary_20260910.sql.txt | allowed=YES
+  - file_id=evidence_56 | captured_at=2026-09-07T09:45:00Z | file_name=customer_analytics_report_20260907.json | upload_key=evidence__records__customer_analytics_report_20260907.json | allowed=YES
+  - file_id=evidence_08 | captured_at=2026-09-06T07:00:00Z | file_name=search_index_diagnostic_20260906.log | upload_key=evidence__logs__search_index_diagnostic_20260906.log.txt | allowed=YES
+  - file_id=evidence_37 | captured_at=2026-09-05T07:00:00Z | file_name=security_audit_explorer_20260905.png | upload_key=evidence__images__security_audit_explorer_20260905.png.txt | allowed=YES
+  - file_id=evidence_55 | captured_at=2026-09-05T06:30:00Z | file_name=security_retention_extract.pdf | upload_key=evidence__documents__security_retention_extract.pdf | allowed=YES
+  - file_id=evidence_54 | captured_at=2026-09-02T23:00:00Z | file_name=customer_accounts_failover_replica_20260902.sql | upload_key=evidence__databases__customer_accounts_failover_replica_20260902.sql.txt | allowed=YES
+  - file_id=evidence_09 | captured_at=2026-09-01T06:00:00Z | file_name=search_index_inspector_20260901.png | upload_key=evidence__images__search_index_inspector_20260901.png.txt | allowed=YES
+  - file_id=evidence_89 | captured_at=2026-09-01T05:33:16Z | file_name=service_resource_export_20260901_053316.json | upload_key=evidence__records__service_resource_export_20260901_053316.json | allowed=YES
+  - file_id=evidence_10 | captured_at=2026-08-27T12:00:00Z | file_name=customer_data_read_replica_20260827.sql | upload_key=evidence__databases__customer_data_read_replica_20260827.sql.txt | allowed=YES
+  - file_id=evidence_11 | captured_at=2026-08-24T13:56:43Z | file_name=syslog_archive_us_east_20260824.log | upload_key=evidence__logs__syslog_archive_us_east_20260824.log.txt | allowed=YES
+  - file_id=evidence_88 | captured_at=2026-08-22T10:39:10Z | file_name=resource_lookup_trace_20260822_103910.log | upload_key=evidence__logs__resource_lookup_trace_20260822_103910.log.txt | allowed=YES
+  - file_id=evidence_13 | captured_at=2026-08-12T09:00:00Z | file_name=connector_configurations_20260812.json | upload_key=evidence__records__connector_configurations_20260812.json | allowed=YES
+  - file_id=evidence_14 | captured_at=2026-08-07T08:00:00Z | file_name=connector_management_console_20260807.png | upload_key=evidence__images__connector_management_console_20260807.png.txt | allowed=YES
+======================================================
+Intent profile case_550: authorized=0.97, delete=0.99, verify=0.30, redact=0.01, label=delete_account
+========== DEBUG case_550 evidence selection ==========
+Filtered activity count: 0
+Filtered evidence count (<= audit_at): 88
+Selected evidence count: 24
+Allowed evidence IDs count: 25
+Recent activity signals:
+Selected evidence (ranked order):
+  - file_id=evidence_52 | captured_at=2026-09-20T12:00:00Z | file_name=customer_data_failover_replica_20260920.sql | upload_key=evidence__databases__customer_data_failover_replica_20260920.sql.txt | allowed=YES
+  - file_id=evidence_06 | captured_at=2026-09-18T11:55:24Z | file_name=structured_service_events_eu_west_20260918.log | upload_key=evidence__logs__structured_service_events_eu_west_20260918.log.txt | allowed=YES
+  - file_id=evidence_61 | captured_at=2026-09-17T22:00:19Z | file_name=support_replica.log | upload_key=evidence__logs__support_replica.log.txt | allowed=YES
+  - file_id=evidence_02 | captured_at=2026-09-17T12:00:00Z | file_name=customer_data_snapshot_bundle_20260917.json | upload_key=evidence__records__customer_data_snapshot_bundle_20260917.json | allowed=YES
+  - file_id=evidence_93 | captured_at=2026-09-16T08:37:39Z | file_name=customer_data_inventory_20260916.sql | upload_key=evidence__databases__customer_data_inventory_20260916.sql.txt | allowed=YES
+  - file_id=evidence_60 | captured_at=2026-09-16T07:20:00Z | file_name=marketing_profile_console.png | upload_key=evidence__images__marketing_profile_console.png.txt | allowed=YES
+  - file_id=evidence_01 | captured_at=2026-09-15T11:59:39Z | file_name=service_events_ap_south_20260915.log | upload_key=evidence__logs__service_events_ap_south_20260915.log.txt | allowed=YES
+  - file_id=evidence_92 | captured_at=2026-09-15T11:44:55Z | file_name=service_resource_export_20260915_114455.json | upload_key=evidence__records__service_resource_export_20260915_114455.json | allowed=YES
+  - file_id=evidence_59 | captured_at=2026-09-14T15:40:00Z | file_name=customer_export_jobs_20260914.json | upload_key=evidence__records__customer_export_jobs_20260914.json | allowed=YES
+  - file_id=evidence_58 | captured_at=2026-09-12T07:30:00Z | file_name=delivery_correction_attachment.pdf | upload_key=evidence__documents__delivery_correction_attachment.pdf | allowed=YES
+  - file_id=evidence_91 | captured_at=2026-09-11T07:42:53Z | file_name=resource_lookup_trace_20260911_074253.log | upload_key=evidence__logs__resource_lookup_trace_20260911_074253.log.txt | allowed=YES
+  - file_id=evidence_57 | captured_at=2026-09-10T08:45:00Z | file_name=customer_search_primary_20260910.sql | upload_key=evidence__databases__customer_search_primary_20260910.sql.txt | allowed=YES
+  - file_id=evidence_56 | captured_at=2026-09-07T09:45:00Z | file_name=customer_analytics_report_20260907.json | upload_key=evidence__records__customer_analytics_report_20260907.json | allowed=YES
+  - file_id=evidence_08 | captured_at=2026-09-06T07:00:00Z | file_name=search_index_diagnostic_20260906.log | upload_key=evidence__logs__search_index_diagnostic_20260906.log.txt | allowed=YES
+  - file_id=evidence_37 | captured_at=2026-09-05T07:00:00Z | file_name=security_audit_explorer_20260905.png | upload_key=evidence__images__security_audit_explorer_20260905.png.txt | allowed=YES
+  - file_id=evidence_55 | captured_at=2026-09-05T06:30:00Z | file_name=security_retention_extract.pdf | upload_key=evidence__documents__security_retention_extract.pdf | allowed=YES
+  - file_id=evidence_54 | captured_at=2026-09-02T23:00:00Z | file_name=customer_accounts_failover_replica_20260902.sql | upload_key=evidence__databases__customer_accounts_failover_replica_20260902.sql.txt | allowed=YES
+  - file_id=evidence_09 | captured_at=2026-09-01T06:00:00Z | file_name=search_index_inspector_20260901.png | upload_key=evidence__images__search_index_inspector_20260901.png.txt | allowed=YES
+  - file_id=evidence_89 | captured_at=2026-09-01T05:33:16Z | file_name=service_resource_export_20260901_053316.json | upload_key=evidence__records__service_resource_export_20260901_053316.json | allowed=YES
+  - file_id=evidence_10 | captured_at=2026-08-27T12:00:00Z | file_name=customer_data_read_replica_20260827.sql | upload_key=evidence__databases__customer_data_read_replica_20260827.sql.txt | allowed=YES
+  - file_id=evidence_11 | captured_at=2026-08-24T13:56:43Z | file_name=syslog_archive_us_east_20260824.log | upload_key=evidence__logs__syslog_archive_us_east_20260824.log.txt | allowed=YES
+  - file_id=evidence_88 | captured_at=2026-08-22T10:39:10Z | file_name=resource_lookup_trace_20260822_103910.log | upload_key=evidence__logs__resource_lookup_trace_20260822_103910.log.txt | allowed=YES
+  - file_id=evidence_13 | captured_at=2026-08-12T09:00:00Z | file_name=connector_configurations_20260812.json | upload_key=evidence__records__connector_configurations_20260812.json | allowed=YES
+  - file_id=evidence_14 | captured_at=2026-08-07T08:00:00Z | file_name=connector_management_console_20260807.png | upload_key=evidence__images__connector_management_console_20260807.png.txt | allowed=YES
+======================================================
+Processed case_547: COMPLETE
+Processed case_548: COMPLETE
+Processed case_545: COMPLETE
+case_532: applied verification-bias repair pass
+Processed case_532: COMPLETE
+Processed case_543: COMPLETE
+Processed case_549: COMPLETE
+Processed case_550: COMPLETE
+case_546: applied verification-bias repair pass
+Processed case_546: INCOMPLETE
+Completed. Wrote 518 rows to D:\Harsh\Project\research\hkco\orchestrate-october26\dataset\output.csv
