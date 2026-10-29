@@ -137,6 +137,7 @@ def get_or_create_vector_store(client: OpenAI, evidence_dir: Path, vision_model:
 
     print(f"Vector store {vector_store.id}: {batch.file_counts.completed}/{len(files)} files indexed, "
           f"{batch.file_counts.failed} failed")
+    STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
     STATE_FILE.write_text(json.dumps({"vector_store_id": vector_store.id}), encoding="utf-8")
     return vector_store.id
 
