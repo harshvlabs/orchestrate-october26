@@ -89,9 +89,11 @@ def get_or_create_vector_store(client: OpenAI, evidence_dir: Path, vision_model:
         stored_id = json.loads(STATE_FILE.read_text(encoding="utf-8")).get("vector_store_id")
         if stored_id:
             try:
-                client.vector_stores.retrieve(stored_id)
-                print(f"Reusing vector store {stored_id}")
-                return stored_id
+                stored = client.vector_stores.retrieve(stored_id)
+                if stored.status == "completed":
+                    print(f"Reusing vector store {stored_id}")
+                    return stored_id
+                print(f"Stored vector store {stored_id} has status {stored.status}; creating a new one")
             except Exception as error:
                 print(f"Stored vector store unusable ({error}); creating a new one")
 
